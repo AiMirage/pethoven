@@ -1,0 +1,16 @@
+<svg id="Facebook" xmlns="http://www.w3.org/2000/svg" width="32.216" height="32.216" viewBox="0 0 32.216 32.216">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #6c63ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_1458" data-name="Rectangle 1458" class="cls-1" width="32.216" height="32.216"/>
+  <path id="Path_1" data-name="Path 1" class="cls-2" d="M90.918,32.216V17.54h5.011l.716-5.727H90.918V8.233c0-1.611.537-2.864,2.864-2.864h3.043V.179C96.108.179,94.318,0,92.35,0c-4.3,0-7.338,2.685-7.338,7.517v4.3H80V17.54h5.011V32.216Z" transform="translate(-71.946)"/>
+</svg>
